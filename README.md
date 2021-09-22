@@ -9,3 +9,9 @@ php artisan key:generate
 php artisan migrate
 
 php artisan db:seed --class=UsersTableSeeder
+
+Usuario de pruebas creado con el seeder:
+
+admin@blog.com   12345678
+
+
